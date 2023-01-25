@@ -1,2 +1,4 @@
 # AluraMid
-Estudo em Javascript
+*Estudo em Javascript*
+
+Projeto do curso de Programação Iniciante da Alura
